@@ -1,0 +1,8 @@
+/* Style Seet for DCinterest site */
+
+#card-container{
+display: flex;
+flex: wrap;
+justify-content: center;
+align-content: space-between;
+}
